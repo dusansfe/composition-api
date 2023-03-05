@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Chevrolet",
+        "price": "150 000",
+        "year": "2015",
+        "contact": {
+            "dealer": "Verano motors",
+            "number": "011 011 011"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Bentley",
+        "price": "200 000",
+        "year": "2017",
+        "contact": {
+            "dealer": "Sport auto",
+            "number": "021 021 021"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Ford",
+        "price": "250 000",
+        "year": "2021",
+        "contact": {
+            "dealer": "US motors",
+            "number": "111 111 111"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Nissan",
+        "price": "180 000",
+        "year": "2016",
+        "contact": {
+            "dealer": "Tokyo motors",
+            "number": "411 411 411"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Toyota",
+        "price": "200 000",
+        "year": "2018",
+        "contact": {
+            "dealer": "Pro cars",
+            "number": "555 555 555"
+        }
+    }
+]

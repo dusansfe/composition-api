@@ -1,0 +1,15 @@
+@import './base.css';
+
+.max-w-main {
+  max-width: 980px;
+  margin: 0 auto;
+}
+
+.spacing {
+  padding-right: 2%;
+  padding-left: 2%;
+}
+
+h1 {
+  text-align: center;
+}
