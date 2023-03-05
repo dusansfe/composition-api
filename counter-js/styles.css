@@ -1,0 +1,16 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: turquoise;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div {
+    text-align: center;
+}
+
+button {
+    cursor: pointer;
+}
